@@ -22,7 +22,7 @@
   <img align="center" alt="vick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vick-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="vick-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=yWKoe6IIky">
+  <img align="right" alt="vick" height= "70px" src="https://i.picasion.com/pic92/c0d39401d8e4a8beb4dc58598c3c0cb0.gif">
 </div>
 
 ##
